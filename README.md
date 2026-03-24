@@ -1,17 +1,17 @@
 **Cyber Security Internship - Practical Exam**
 
-Objective
+**Objective**
 
 The objective of this project is to identify, analyze, and mitigate common web application vulnerabilities using a vulnerable application.
 
 
-Application Used
+**Application Used**
 
 Damn Vulnerable Web Application (DVWA)
 
 
 
-Environment Setup
+**Environment Setup**
 
  1. Install Docker
 
@@ -45,14 +45,14 @@ Set security level to LOW
 
 
 
- Tools Used
+ **Tools Used**
 
  Burp Suite (Community Edition)
  Web Browser (Burp Browser)
 
 
 
-Vulnerabilities Identified
+**Vulnerabilities Identified**
 
 1. SQL Injection
 
@@ -74,22 +74,15 @@ Multiple login attempts allowed without restriction
  Result: Executed system command
 
 5. Security Misconfiguration
-
 Security level set to LOW
 No HTTPS
 Weak configuration
 
 
- Security Testing (Burp Suite)
-
-Intercepted HTTP requests
-Modified request parameters
-Forwarded requests to server
-Observed responses
 
 
 
- Conclusion
+ **#Conclusion#**
 
 The DVWA application contains multiple vulnerabilities that can be exploited by attackers. Proper input validation, authentication mechanisms, and secure configurations are required to mitigate these risks.
 
