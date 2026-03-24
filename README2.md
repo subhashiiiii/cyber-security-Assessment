@@ -1,18 +1,18 @@
 # Cyber Security Internship - Practical Exam
 
-## 📌 Objective
+## Objective
 
 The objective of this project is to identify, analyze, and mitigate common web application vulnerabilities using a vulnerable application.
 
 ---
 
-## 🧩 Application Used
+## Application Used
 
 * Damn Vulnerable Web Application (DVWA)
 
 ---
 
-## ⚙️ Environment Setup
+##  Environment Setup
 
 ### 1. Install Docker
 
@@ -56,14 +56,14 @@ Password: password
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Burp Suite (Community Edition)
 * Web Browser (Burp Browser)
 
 ---
 
-## 🔍 Vulnerabilities Identified
+## Vulnerabilities Identified
 
 ### 1. SQL Injection
 
@@ -104,7 +104,7 @@ Password: password
 
 ## Repository Structure
 
-report.pdf - Full security assessment report
-screenshots/ - Evidence of vulnerabilities
-README.md - Project documentation
+* report.pdf - Full security assessment report
+* screenshots/ - Evidence of vulnerabilities
+* README.md - Project documentation
 ---
