@@ -82,7 +82,7 @@ Weak configuration
 
 
 
- **#Conclusion#**
+ **Conclusion**
 
 The DVWA application contains multiple vulnerabilities that can be exploited by attackers. Proper input validation, authentication mechanisms, and secure configurations are required to mitigate these risks.
 
