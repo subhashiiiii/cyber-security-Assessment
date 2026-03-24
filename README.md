@@ -31,12 +31,14 @@ http://localhost:8080
  4. Setup Database
 
 Go to: http://localhost:8080/setup.php
+
 Create / Reset Database
 
  5. Login Credentials
 
 Username: admin
-Password: password
+
+  Password: password
 
  6. Security Configuration
 
